@@ -1,0 +1,7 @@
+name: PlayerHider
+version: '${project.version}'
+main: com.github.mori01231.playerhider.PlayerHider
+api-version: 1.17
+authors: [ Mori01231 ]
+description: Hides players from each other in specific worlds
+website: https://github.com/AzisabaNetwork
